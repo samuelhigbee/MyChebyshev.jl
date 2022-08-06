@@ -3,6 +3,9 @@ uuid = "2decbe97-afac-4190-809a-1eeb7bb9f0ac"
 authors = ["Samuel Higbee <samuelhigbee@gmail.com>"]
 version = "0.1.0"
 
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+
 [compat]
 julia = "1.7"
 

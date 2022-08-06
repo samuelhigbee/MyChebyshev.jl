@@ -1,5 +1,9 @@
 module MyChebyshev
 
-# Write your package code here.
+using LinearAlgebra
+
+export ChebyshevApproximator, evaluateChebyshev
+
+include("ChebyshevFunctions.jl")
 
 end
